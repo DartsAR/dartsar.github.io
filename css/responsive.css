@@ -1714,8 +1714,8 @@
     #screens-2 .screenshots-wrap { width: 298px; margin: 0 auto; }
     #screens-1 .carousel-item { width: 240px; margin: 0 20px; text-align: center; }
     #screens-1 .carousel-item img {width: 240px; text-align: center; }
-    .iphone-frame { top: -62px; }
-    .iphone-frame img { max-width: 280px; }
+    .iphone-frame { top: -3px; left: -10px}
+    .iphone-frame img { max-width: 320px; }
 
     #screens-2 .carousel-item { -webkit-transform: scale(1); -ms-transform: scale(1); transform: scale(1); }
 
@@ -1913,8 +1913,8 @@
     #screens-2 .screenshots-wrap { width: 298px; margin: 0 auto; }
     #screens-1 .carousel-item { width: 240px; margin: 0 20px; text-align: center; }
     #screens-1 .carousel-item img {width: 240px; text-align: center; }
-    .iphone-frame { top: -62px; }
-    .iphone-frame img { max-width: 280px; }
+    .iphone-frame { top: -12px; left: -16px}
+    .iphone-frame img { max-width: 318px; }
 
     #screens-2 .carousel-item { -webkit-transform: scale(1); -ms-transform: scale(1); transform: scale(1); }
 
@@ -2120,8 +2120,8 @@
     #screens-2 .screenshots-wrap { width: 298px; margin: 0 auto; }
     #screens-1 .carousel-item { width: 240px; margin: 0 20px; text-align: center; }
     #screens-1 .carousel-item img {width: 240px; text-align: center; }
-    .iphone-frame { top: -62px; }
-    .iphone-frame img { max-width: 280px; }
+    .iphone-frame { top: -12px; left: -17px }
+    .iphone-frame img { max-width: 320px; }
 
     #screens-2 .carousel-item { -webkit-transform: scale(1); -ms-transform: scale(1); transform: scale(1); }
 
