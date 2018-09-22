@@ -176,7 +176,7 @@
 						youtube: {
 			   
 							index: 'youtube.com',
-							src: 'https://www.youtube.com/embed/UZoyFLgGChQ'
+							src: 'https://www.youtube.com/embed/ckbXdMu52zI'
 				
 								}
 							}
